@@ -1,11 +1,11 @@
 html {
-  box-sizing: border-box;
+	box-sizing: border-box;
 }
 
 *,
 *:before,
 *:after {
-  box-sizing: inherit;
+	box-sizing: inherit;
 }
 
 form {
@@ -33,19 +33,19 @@ textarea {
 	top: 10px;
 	left: 10px;
 	height: 78px;
-  width: 838px;
-  padding: 10px;
-  font-family: 'Helvetica', sans-serif;
-  font-size: 12px;
-  line-height: 1.4;
-  border: 1px solid #000;
-  border-radius: 0;
+	width: 838px;
+	padding: 10px;
+	font-family: 'Helvetica', sans-serif;
+	font-size: 12px;
+	line-height: 1.4;
+	border: 1px solid #000;
+	border-radius: 0;
 	outline: none;
-  box-shadow: none;
-  overflow: auto;
-  resize: none;
+	box-shadow: none;
+	overflow: auto;
+	resize: none;
 
-  -webkit-transition: border-color 200ms;
+	-webkit-transition: border-color 200ms;
 	-moz-transition:    border-color 200ms;
 	-o-transition:      border-color 200ms;
 	transition:         border-color 200ms;
@@ -73,14 +73,14 @@ button {
 	padding: 0;
 	border-radius: 0;
 	-webkit-user-select: none;
-  -moz-user-select:    none;
-  -ms-user-select:     none;
-  font-family: 'Andale Mono', monospace;
-  font-size: 16px;
-  width: 115px;
+	-moz-user-select:    none;
+	-ms-user-select:     none;
+	font-family: 'Andale Mono', monospace;
+	font-size: 16px;
+	width: 115px;
 
-  -webkit-transition: background-color 100ms,
-  										color 100ms;
+	-webkit-transition: background-color 100ms,
+											color 100ms;
 	-moz-transition:    background-color 100ms,
 											color 100ms;
 	-o-transition:      background-color 100ms,
